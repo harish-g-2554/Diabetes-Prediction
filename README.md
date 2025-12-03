@@ -47,7 +47,7 @@ Source: [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/p
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/ImSahil25/dDiabetes-Prediction-using-Deep-Learning.git
+   git clone https://github.com/harish-g-2554/Diabetes-Prediction.git
    cd Diabetes-Prediction-using-Deep-Learning
    ```
 
